@@ -9,9 +9,13 @@
 ### About Project
 Navigating a new space is always intimidating. We cannot 'Google-Maps' our way through corridors and unlisted spaces. It becomes all the more difficult if you cannot understand the local language. Moreover, GPS fails to work in closed spaces.
 
-NAKSHA is an indoor navigation solution for navigating premises inside an organisation. With AR at its core, it aims to aid people to find their way around new places easier than ever.
+It is an indoor navigation solution for navigating premises inside an organisation. With AR at its core, it aims to aid people to find their way around new places easier than ever.
 
-
+### How it works
+- User scans a QR code or selects a destination (e.g., "Conference Room B").
+- AR path is generated in real-time, overlaying arrows on the camera feed.
+- Step-by-step guidance leads the user to the location.
+- Destination reached! 
 
 
 
